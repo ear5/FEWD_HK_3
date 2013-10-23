@@ -1,3 +1,52 @@
-h1 {
-	color: red;
+body {
+	font-family: helvetica;
+	font-size: 12px;
+	line-height: 1;
+	text-align: justify;
+	margin: 30px;
+	border: 30px dotted #f0cfcf;
+	padding: 400px;
+	background-color: #3f3645;
 }
+
+p {
+	color: #E1F0F5;
+}
+
+p.ex { 
+	max-width: 100px;
+}
+
+a {
+	color: #E3105A;
+	font-family: georgia;
+	font-size:15px;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: yellow;
+}
+
+h1 {
+	font-family: georgia;
+	font-size: 30px;
+	color: #87EDB7;
+	text-align: center;
+}
+
+h2, h3, h4 {
+	font-family: georgia;
+	color: #87EDB7;
+	text-align: center;
+}
+
+strong {
+	font-family: georgia;
+	color: #f2c679;
+}
+
+nav {
+	text-align: center;
+}
+

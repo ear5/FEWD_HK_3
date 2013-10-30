@@ -1,0 +1,184 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Consolas;}
+{\colortbl;\red255\green255\blue255;\red174\green0\blue240;\red198\green50\blue253;\red255\green252\blue171;
+\red230\green243\blue125;\red194\green229\blue166;\red38\green38\blue38;\red246\green246\blue246;\red255\green249\blue89;
+\red0\green41\blue57;\red255\green219\blue205;\red254\green253\blue213;\red254\green209\blue207;\red253\green165\blue49;
+}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11140\viewh11380\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 	\
+	
+\fs56 ..
+\fs24  \cf2  up one level\cf0 \
+	
+\fs48 ../../
+\fs44  
+\fs24 \cf2 up two levels\cf0 \
+	etc\
+	
+\fs50 .
+\fs24  \cf3 current directory\cf0 \
+\cf2 		so:\
+\cf0 		<img src="
+\fs40 \cb4 .
+\fs24 \cb1 /images/apple.png">\
+		\cf2 is the same as\
+\cf0 		<img src="/images/apple.png">\
+\
+	ABSOLUTE PATH always starts from \cb5 /\cb1 \
+\
+-----------------------------------------------------------------------------\
+	<html>\
+	<head>\
+		<title></title>\
+		\cb6 <style>\
+			h2 \{colour:blue;\}\
+		</style>\
+\cb1 	</head>\
+\
+\cf2 OR\
+\cf0 \
+<h2 \cb6 style="colour:blue;"\cb1 >\
+\
+\cf2 OR\
+\cf0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+\cf0 <html>\
+	<head>\
+		<title></title>\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+\cf0 \cb6 		<link rel="stylesheet" type="text/css" href="style.css">\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+\cf0 \cb1 	</head>\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+\cf0 \
+------------------------------------------------------------------------------\
+\
+\pard\pardeftab720\sl380
+
+\f1 \cf7 \cb8 h1 \{ color: red; \} 
+\fs18 \cf2 /* Apply to all <h1> tags */
+\fs24 \cf7 \
+\
+h1.tagline \{ color: blue; \} 
+\fs20 \cf2 /* Only apply to the <h1> tag which has class = tagline */\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl500
+\ls1\ilvl0
+\f0\fs30 \cf7 \cb1 {\listtext	\'95	}\
+\pard\pardeftab720\sl380
+
+\f1\fs24 \cf7 \cb8 .className \{ color: red; \}\
+\
+#idName \{ color: blue; \}
+\fs26 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 \cb1 \
+\
+\cb9 PADDING\cb1 \
+\
+    	padding-top: 5px;\
+	padding-right: 10px;\
+	padding-bottom: 15px;\
+	padding-left: 20px;\
+\cf2 OR\cf0 \
+	padding: 5px 10px 15px 20px; 	\cf2 <--clockwise from top\
+	\cf10 padding: 5px 10px;	\cf2 2 values = top & bottom; left & right\
+	\cf0 padding: 5px 10px 15px \cf2 	3 values = top; left & right; bottom\cf0 \
+\
+-----------------------------------------------------------------------------\
+\
+TEMPLATE\
+\
+\cb11 <!doctype html>\
+<html lang="en">\
+  <head>\
+    <title>Page title</title>\
+    <meta charset="utf-8">\
+    <meta name="author" content="<your name>">\
+\cb12     <meta name="keywords" content="<comma>, <separated>, <keywords>">\cb11 \
+\cb12     <meta name="description" content="<A short description about this page>">\cf3 \cb11    for seo\
+\cf0     <link rel="stylesheet" type="text/css" href="css/normalize.css">\
+    <link rel="stylesheet" type="text/css" href="css/style.css">\
+  </head>\
+  <body>\
+  \cb12   <div id="container">\cf3 \cb13    to group things together/ divide into sections\cf0 \cb11 \
+			<header>\
+				<h1>Blank Template</h1>\
+				<h2>Just another blank template</h2>\
+			</header> 	\
+			<footer>\
+				&copy; Footer Goes Here\
+			</footer>\
+		</div><!-- #container --> \
+  </body>\
+</html>\
+\cb1 \
+\
+\
+\
+	cd FEWD_HK_3/\
+	ls \
+	git status\
+	git remote\
+	git remote add upstream https://github.com/ga-students/FEWD_HK_3.git\
+	git remote show upstream\
+	git pull upstream gh-pages\
+	:wq \cf2 (write & quit)\
+\cf0 	git merge upstream \cf2 (merge new updates from upstream repo to local copy of same repo)\
+\cf0 	git push origin gh-pages \cf2 (push new commits to your forked repo) \cf0 \
+\
+\
+	ls\
+	cd homework/week1/\
+	ls\
+
+\fs20 \cf14 homework.css	index.html	resume
+\fs24 \cf0 \
+	git add resume\
+	git status\
+
+\fs20 \cf14 # On branch gh-pages\
+# Changes to be committed:\
+#   (use "git reset HEAD <file>..." to unstage)\
+#\
+#	new file:   resume/index.html\
+#	new file:   resume/style.css\
+#\
+# Changes not staged for commit:\
+#   (use "git add <file>..." to update what will be committed)\
+#   (use "git checkout -- <file>..." to discard changes in working directory)\
+#\
+#	modified:   ../../final/emma/readme.md\
+#	modified:   ../../lesson1/solutions/cookie_recipe/index.html\
+#\
+# Untracked files:\
+#   (use "git add <file>..." to include in what will be committed)\
+#\
+#	../../FEWD_3.sublime-project\
+#	../../FEWD_3.sublime-workspace\
+#	../../lesson1/solutions/cookie_recipe/style.css\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\fs24 \cf0 	git commit -m "this is my homework"\
+
+\fs20 \cf14 [gh-pages 29f44d3] this is my homework\
+ 2 files changed, 4 insertions(+)\
+ create mode 100644 homework/week1/resume/index.html\
+ create mode 100644 homework/week1/resume/style.css
+\fs24 \cf0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+\cf0 	git push\
+
+\fs20 \cf14 Counting objects: 10, done.\
+Delta compression using up to 4 threads.\
+Compressing objects: 100% (4/4), done.\
+Writing objects: 100% (7/7), 566 bytes | 0 bytes/s, done.\
+Total 7 (delta 1), reused 0 (delta 0)\
+To https://github.com/ear5/FEWD_HK_3.git\
+   04f23e9..29f44d3  gh-pages -> gh-pages\
+\
+right  present moment. right here right now. thinks in pictures, learns kinaesthetically.information in the form of energy streams in simultaneously - }

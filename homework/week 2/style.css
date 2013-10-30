@@ -1,0 +1,88 @@
+body {
+	width:500px;
+	margin:0 auto;
+	border-left: 10px solid silver;
+	font-family: gudea;
+	font-size: 12px;
+	line-height: 1.5;
+	text-align: justify;
+	border: none;
+	padding: none;
+	background-color: #ffffff;
+}
+
+
+p {
+	font-family:gudea;
+	size:16px;
+}
+
+p:first-letter
+{ 
+font-size:400%;
+font-family:gudea;
+line-height:0.7;
+color:silver;
+}
+
+a {
+	color: silver;
+	font-family: gudea;
+	font-size:16px;
+	text-decoration: underline;
+}
+
+#pagetitle {
+	font-size: 60px;
+	color: red;
+	text-decoration: none;
+}
+
+a.cont {
+	color: red;
+	text-align: right;
+	
+}
+
+a.artitle {
+	font-size:30px;
+	color: black;
+	text-decoration: none;
+}
+
+h1 {
+	font-family: gudea;
+	font-size: 60px;
+	color: red;
+	text-align: left;
+}
+
+h2 {
+	font-family: gudea;
+	font-size: 40px;
+
+}
+
+h3 {
+	font-family: helvetica;
+	font-size: 20px;
+	color: silver;
+}
+
+h4 {
+	font-family: gudea;
+	size: 16px;
+}
+
+strong {
+	font-family: gudea;
+	color: #f2c679;
+}
+
+nav {
+	text-align: center;
+}
+
+#footnav {
+	color: red;
+}

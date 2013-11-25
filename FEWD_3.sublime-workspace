@@ -3,23 +3,91 @@
 	{
 		"selected_items":
 		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"backgroun",
+				"background-position"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"h",
+				"hr	Tag"
+			],
+			[
+				"bo",
+				"body	Tag"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "final/emma/readme.md",
+			"file": "lesson7/starter_code/temp_converter/js/main.js",
 			"settings":
 			{
-				"buffer_size": 411,
+				"buffer_size": 681,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "lesson1/solutions/cookie_recipe/index.html",
+			"file": "lesson7/starter_code/temp_converter/index.html",
 			"settings":
 			{
-				"buffer_size": 1876,
+				"buffer_size": 434,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lesson7/starter_code/temp_converter/css/main.css",
+			"settings":
+			{
+				"buffer_size": 65,
 				"line_ending": "Unix"
 			}
 		}
@@ -31,11 +99,107 @@
 		"selected_items":
 		[
 			[
+				"git",
+				"Git: Custom Command"
+			],
+			[
+				"git ",
+				"Git: Diff Staged"
+			],
+			[
+				"git dif",
+				"Git: Diff All"
+			],
+			[
+				"git diff",
+				"Git: Diff All"
+			],
+			[
+				"GIT PUS",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"stage",
+				"Git: Diff Staged"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git dff",
+				"Git: Diff All"
+			],
+			[
+				"",
+				"Git: Log All"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git c",
+				"Git: Custom Command"
+			],
+			[
+				"git change",
+				"Git: Stash Changes"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git stash chang",
+				"Git: Stash Changes"
+			],
+			[
+				"git stash",
+				"Git: Stash Changes"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
 				"install",
 				"Package Control: Install Package"
 			]
 		],
-		"width": 575.0
+		"width": 354.0
 	},
 	"console":
 	{
@@ -52,6 +216,27 @@
 	},
 	"file_history":
 	[
+		"/Users/emmarennell/FEWD_HK_3/homework/week 3/style.css",
+		"/Users/emmarennell/FEWD_HK_3/lesson5/starter_code/css_positioning/css/style.css",
+		"/Users/emmarennell/FEWD_HK_3/homework/week 2/style.css",
+		"/Users/emmarennell/FEWD_HK_3/lesson3/starter_code/template/css/normalize.css",
+		"/Users/emmarennell/FEWD_HK_3/lesson5/starter_code/css_positioning/index.html",
+		"/Users/emmarennell/FEWD_HK_3/lesson3/starter_code/template/css/reset.css",
+		"/Users/emmarennell/FEWD_HK_3/homework/week 3/index.html",
+		"/Users/emmarennell/Documents/rpg werq/omg/index.html",
+		"/Users/emmarennell/Documents/rpg werq/omg/style.css",
+		"/Users/emmarennell/Downloads/AbsoluteInsideRelative/index.html",
+		"/Users/emmarennell/Downloads/AbsoluteInsideRelative/style.css",
+		"/Users/emmarennell/FEWD_HK_3/homework/week 2/index.html",
+		"/Users/emmarennell/FEWD_HK_3/homework/week1/resume/style.css",
+		"/Users/emmarennell/FEWD_HK_3/homework/week1/index.html",
+		"/Users/emmarennell/FEWD_HK_3/homework/week1/resume/index.html",
+		"/Users/emmarennell/FEWD_HK_3/lesson1/solutions/cookie_recipe/style.css",
+		"/Users/emmarennell/FEWD_HK_3/lesson2/solutions/Wendy_Bite_Solution/resume.html",
+		"/Users/emmarennell/FEWD_HK_3/lesson1/solutions/cookie_recipe/index.html",
+		"/Users/emmarennell/FEWD_HK_3/homework/week1/resume/resume.html",
+		"/Users/emmarennell/FEWD_HK_3/final/mart/readme.md",
+		"/Users/emmarennell/FEWD_HK_3/final/emma/readme.md",
 		"/Users/emmarennell/Desktop/arteasta/index.html",
 		"/Users/emmarennell/FEWD_HK_3/README.md",
 		"/Users/emmarennell/Desktop/arteasta/GRAYS.tif",
@@ -60,7 +245,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -74,6 +259,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"box",
+			"hover",
+			"600",
+			"h2",
+			"h1",
+			"title"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -91,23 +282,23 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "final/emma/readme.md",
+					"file": "lesson7/starter_code/temp_converter/js/main.js",
 					"settings":
 					{
-						"buffer_size": 411,
+						"buffer_size": 681,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								411,
-								411
+								108,
+								108
 							]
 						],
 						"settings":
@@ -115,6 +306,26 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -122,9 +333,21 @@
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
-								"bh_unmatched_close"
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
 							],
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -134,18 +357,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "lesson1/solutions/cookie_recipe/index.html",
+					"file": "lesson7/starter_code/temp_converter/index.html",
 					"settings":
 					{
-						"buffer_size": 1876,
+						"buffer_size": 434,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								542,
-								542
+								68,
+								68
 							]
 						],
 						"settings":
@@ -153,6 +376,26 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -160,7 +403,19 @@
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
-								"bh_unmatched_close"
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
 							],
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"translate_tabs_to_spaces": false
@@ -170,7 +425,82 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lesson7/starter_code/temp_converter/css/main.css",
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
+			]
+		},
+		{
+			"sheets":
+			[
 			]
 		}
 	],
@@ -180,7 +510,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -191,11 +521,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.94019138756,
 			1.0
 		],
 		"rows":
@@ -205,6 +542,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.git":
+	{
+		"height": 210.0
+	},
 	"replace":
 	{
 		"height": 0.0
@@ -216,8 +557,44 @@
 		"selected_items":
 		[
 			[
+				"main.css",
+				"lesson7/starter_code/temp_converter/css/main.css"
+			],
+			[
+				"main.js",
+				"lesson7/starter_code/temp_converter/js/main.js"
+			],
+			[
 				"",
-				"/Users/emmarennell/FEWD_HK_3/final/emma/readme.md"
+				"homework/week 2/style.css"
+			],
+			[
+				"cssposi",
+				"lesson5/starter_code/css_positioning/css/style.css"
+			],
+			[
+				"index",
+				"lesson5/starter_code/css_positioning/index.html"
+			],
+			[
+				"resu",
+				"homework/week1/resume/index.html"
+			],
+			[
+				"style",
+				"homework/week 2/style.css"
+			],
+			[
+				"reset",
+				"lesson3/starter_code/template/css/reset.css"
+			],
+			[
+				"normal",
+				"lesson3/starter_code/template/css/normalize.css"
+			],
+			[
+				"resume",
+				"lesson2/solutions/Wendy_Bite_Solution/resume.html"
 			],
 			[
 				"phoneb",
@@ -246,6 +623,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 179.0,
 	"status_bar_visible": true
 }

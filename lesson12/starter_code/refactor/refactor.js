@@ -10,9 +10,16 @@ $("#container>ol").prepend("<li>Sugar</li>");
 $("#container>ol").prepend("<li>Bananas</li>");
 $("#container>ol").prepend("<li>Gatorade</li>");
 
+//refactored:
+
+var items = ["Milk", "Cookies", "Sugar", "Bananas", "Gatorade"];
+items.forEach (function(element, index){
+	$("#container>ol").prepend("<li>" + element + "</li>)
+});
 
 
 // 3
+
 $("#container").css("width","960px");
 $("#container").css("background","red");
 $("#container").css("color","purple");
@@ -20,6 +27,15 @@ $("#main").css("width","960px");
 $("#main").css("background","red");
 $("#main").css("color","purple");
 
+//refactored: 
+
+$("#container, #main").css({
+	"width": "960px",
+	"background": "red",
+	"color": "purple",
+})
+
+$("#container,#main").css({"width":"960px","background":"red","color":"purple"});
 
 
 // 4
